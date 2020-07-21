@@ -1,3 +1,7 @@
+---
+title: "DATA SCIENCE"
+date: 2020-07-21
+---
 I have completed Applied Data Science in Python Specialization on Coursera.
 Now I am looking forward to learn these concepts by practicing on Kaggle.
 Alongside, I am going to do Ng's Machine Learning course.
